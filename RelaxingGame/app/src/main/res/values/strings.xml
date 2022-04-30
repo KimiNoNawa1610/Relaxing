@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">RelaxingGame</string>
+    <string name="chill">chill</string>
+    <string name="exciting">exciting</string>
+    <string name="sleep">sleep</string>
+    <string name="study">study</string>
+    <string name="create">Create your own</string>
+    <string name="title">Mental Sounds</string>
 </resources>
